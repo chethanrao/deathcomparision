@@ -1,6 +1,7 @@
 # deathcomparision
 pre requirement:
 pip3 install matplotlib
+pip3 install numpy
 
 To run the script:
 python3 deaths.py
